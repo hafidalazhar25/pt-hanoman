@@ -3,7 +3,7 @@
     <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
         <div class="md:flex md:justify-between">
           <div class="mb-6 md:mb-0">
-              <a href="https://flowbite.com/" class="flex items-center">
+              <a href="https://hanoman.vercel.app/" class="flex items-center">
                   <span class="logo-footer self-center text-2xl text-white font-semibold whitespace-nowrap dark:text-white">PT. Hanoman</span>
               </a>
           </div>
