@@ -76,7 +76,7 @@
     </section>
     <section id="lokasi">
       <center>
-        <h1 class="layanankami mt-20">Lokasi Kamu</h1>
+        <h1 class="layanankami mt-20">Lokasi Kami</h1>
       </center>
     </section>
   </div>
