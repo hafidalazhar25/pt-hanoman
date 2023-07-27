@@ -1,5 +1,4 @@
 <template>
-
 <footer class="bg-blue-500 dark:bg-white">
     <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
         <div class="md:flex md:justify-between">

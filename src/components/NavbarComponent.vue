@@ -2,7 +2,7 @@
   <Navbar>
     <template #logo>
       <NavbarLogo
-        link="#"
+        link="https://hanoman.vercel.app/"
         alt="Flowbite logo"
         image-url="https://media.istockphoto.com/id/1214970249/id/vektor/logo-modern-letters-tp-atau-pt-ilustrasi-vektor.jpg?s=170667a&w=0&k=20&c=FnLeITbMh1DfBdLlvqFdh6Nb84_Q629rbuv6SucV90Q="
         class="logo-navbar"
