@@ -12,10 +12,10 @@
                   <h2 class="mb-6 text-sm font-semibold text-white uppercase white:text-white">Menu</h2>
                   <ul class="text-white dark:text-gray-400 font-medium">
                       <li class="mb-4">
-                          <a href="https://flowbite.com/" class="hover:underline">Tentang</a>
+                          <a href="#tentang" class="hover:underline">Tentang</a>
                       </li>
                       <li>
-                          <a href="https://tailwindcss.com/" class="hover:underline">Layanan</a>
+                          <a href="#layanan" class="hover:underline">Layanan</a>
                       </li>
                   </ul>
               </div>
@@ -45,7 +45,7 @@
       </div>
       <hr class="my-6 border-white sm:mx-auto dark:border-gray-700 lg:my-8" />
       <div class="sm:flex sm:items-center sm:justify-between">
-          <span class="text-sm text-white sm:text-center dark:text-gray-400">© 2023 <a href="https://flowbite.com/" class="hover:underline">PT. Hanoman</a>. All Rights Reserved.
+          <span class="text-sm text-white sm:text-center dark:text-gray-400">© 2023 <a href="https://hanoman.vercel.app/" class="hover:underline">PT. Hanoman</a>. All Rights Reserved.
           </span>
           <div class="flex mt-4 space-x-5 sm:justify-center sm:mt-0">
               <a href="#" class="text-white hover:text-gray-900 dark:hover:text-white">
