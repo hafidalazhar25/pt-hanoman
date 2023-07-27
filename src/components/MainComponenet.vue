@@ -36,7 +36,7 @@
         </div>
         <div class="basis-1/5">
           <the-card href="#">
-            <i class="fa-solid fa-gears"></i>
+            <i class="fa-solid fa-flask"></i>
             <h5
               class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"
             >
