@@ -8,7 +8,7 @@ import { Button } from 'flowbite-vue';
       <h1 class="selamatdatang">Creative.</h1>
       <p class="font-semibold">Kami adalah perusahaan yang bekerja</p>
       <p class="font-semibold">
-        jasa Lorem ipsum dolor sit amet consectetur adipisicing.
+        jasa pembuatan produk dari bahan bahan logam logam
       </p>
       <p class="font-semibold"></p>
       <Button color="default" class="mt-4" pill>Tertarik</Button>
